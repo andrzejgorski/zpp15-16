@@ -1,0 +1,8 @@
+GPL - General Public License - powszechna licencja publiczna
+LGPL - Lesser General Public License - słabsza powszechna licencja publiczna
+
+Licencja LGPL nakłada ograniczenia określane jako copyleft (rodzaj systemu licencjonowania praw autorskich, zezwalający na modyfikację pracy i jej dalszą redystrybucję na identycznych warunkach) na poszczególne pliki źródłowe, ale nie na cały program, pod warunkiem używania odpowiedniego mechanizmu bibliotek współdzielonych (ang. shared library) oraz przestrzegania pewnych dodatkowych ograniczeń. Licencja jest głównie przeznaczona do bibliotek, chociaż używają jej też aplikacje składające się z wielu połączonych ze sobą bibliotek, np. pochodzące z pakietu OpenOffice.org lub KOffice.
+LGPL różni się od GPL głównie tym, że pozwala na łączenie z programami nieobjętymi licencjami GPL czy LGPL, niezależnie czy będą one wolnym czy własnościowym (w tym komercyjnym) oprogramowaniem.
+
+	^ źródło: Wikipedia
+
