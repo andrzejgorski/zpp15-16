@@ -1,0 +1,44 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+26.11.2015, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Ewa Pawłowska
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+
+3. DONE
+
+- konfiguracja nosetests
+- wybór licencji BSD 3-clause
+- przebudowa warstwy dostępu do danych
+- zaprojektowanie nowych klas odpowiedzialnych za reguły i parsery
+- wstępny wybrany temat: Whylog Efektywne Przeszukiwanie Logów
+
+4. TODO (na następne zajęcia)
+
+- Strona projektu z linkami do minutek i dokumentami (github) - Krzysiek
+- Przygotowanie prezentacji kodu: - Andrzej
+	- struktura katalogów
+	- zaprezentowanie kodu
+- rozpoczęcie implementacji regex creatora teachera - Ewa 
+- dokończenie UMLa - Andrzej
+- merge do mastera brancha configaccess - Krzysiek
+- prototyp klienta przechodzi pierwsze 3 testy - Grzesiek 
+- wybór języka dokumentacji (angielski lub polski)
+
+5. Ustalenia
+
+- branch dev i master z działającym kodem
+- repozytorium z kodem na githubie:
+	https://github.com/9livesdata/whylog
+
+- przygotowanie prezentacji o vimie 14 I 2015
+- strona projektu z minutkami i informacjami o projekcie oraz dokumentacją:
+	https://github.com/andrzejgorski/zpp15-16
+
