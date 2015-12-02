@@ -48,6 +48,8 @@ Grzegorz Konefał
 - strona projektu z minutkami i informacjami o projekcie oraz dokumentacją:
     https://github.com/andrzejgorski/zpp15-16
 
+####1. ó) o Projekcie:
+https://github.com/9livesdata/whylog/tree/master/whylog
 
 ##2. Co udalo się zrobić?
 
