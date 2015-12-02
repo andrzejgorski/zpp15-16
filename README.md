@@ -51,6 +51,8 @@ Grzegorz Konefał
 
 ##2. Co udalo się zrobić?
 
+![alt tag](http://www.photos-public-domain.com/wp-content/uploads/2012/08/done.jpg)
+
 #####1. Strona projektu z minutkami i dokumentami
 ```
 Ta strona :D
@@ -60,9 +62,9 @@ https://github.com/andrzejgorski/zpp15-16
 #####2. Wybór języka - Polski
 
 #####3. Konfiguracja travisa W00t!!!
-
+```
 Nadprogramowe
-
+```
 https://travis-ci.org/9livesdata/whylog/builds/93819751
 
 
@@ -99,10 +101,12 @@ https://github.com/9livesdata/whylog/commit/ccb289b2ffb35fd80f801e5192f5ca34276f
 
 
 ##3. Z czym jeszcze walczymy...
+![alt tag](http://www.dobroni.pl/foto_galeria/dsc_0337dig.jpg)
 https://github.com/konefalg/whylog/blob/c66e09b015206863842ae2c893e80031febf28bf/whylog/client/__init__.py
 
 
 ##4. Co planujemy zrobić?
+![alt tag](http://i.imgur.com/OvMZBs9.jpg)
 
 #####1. Rozbicie Umla na kilka mniejszych fragmentów. - Andrzej
 ######- Struktura stanów. (Zależności pomiędzy nimi itp)
