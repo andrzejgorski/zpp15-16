@@ -102,7 +102,13 @@ https://github.com/9livesdata/whylog/commit/ccb289b2ffb35fd80f801e5192f5ca34276f
 
 ##3. Z czym jeszcze walczymy...
 ![alt tag](http://www.dobroni.pl/foto_galeria/dsc_0337dig.jpg)
+
+#####Implementacja clienta. Dotychczasowy kod przechodzi jak narazie jeden test.
+
 https://github.com/konefalg/whylog/blob/c66e09b015206863842ae2c893e80031febf28bf/whylog/client/__init__.py
+
+
+#####Jednak się nie poddajemy. :D
 
 
 ##4. Co planujemy zrobić?
