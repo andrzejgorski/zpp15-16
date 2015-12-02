@@ -51,35 +51,51 @@ Grzegorz Konefał
 
 ##2. Co udalo się zrobić?
 
-####Strona projektu z minutkami i dokumentami
+#####1. Strona projektu z minutkami i dokumentami
+```
+Ta strona :D
+```
 https://github.com/andrzejgorski/zpp15-16
 
-####Wybór języka - Polski
+#####2. Wybór języka - Polski
 
-####Konfiguracja travisa W00t!!!
+#####3. Konfiguracja travisa W00t!!!
+
+Nadprogramowe
+
 https://travis-ci.org/9livesdata/whylog/builds/93819751
 
 
-###Dużo nowego kodu
+#####4. Dużo nowego kodu
 
 
-#####Waiting for merge config access branch
+######Waiting for merge config access branch
 https://github.com/9livesdata/whylog/commit/41594738a254fbfb881cb75bbe1f072881eddf4c
 
 
-####Dyskusja nad kodem:
+######Dyskusja nad kodem:
 
 https://github.com/9livesdata/whylog/pull/20
 
 
-####Przełożenie i przerobienie UML
+#####5. Pierwsze zalążki tego co będzie w przyszłości naszą pracą licencjacką
+
+https://9livesdatazpp.slack.com/files/konefalg/F0FNRDFEV/Co_chce_brac_i_co_chce_dac
+
+
+#####6. Wprowadzony nowy standard prezentacji
+```
+To ta prezentacja
+```
+
+#####7. Przełożenie i przerobienie UML
 
 
 https://github.com/9livesdata/whylog/commit/ccb289b2ffb35fd80f801e5192f5ca34276fabd7#commitcomment-14666061
 
 
-#####Jednak klient nadal nie jest jeszcze szczęśliwy.
 
+#####Jednak klient cały czas zgłasza własne uwagi z których możemy czerpać naukę.
 
 
 ##3. Z czym jeszcze walczymy...
@@ -88,17 +104,15 @@ https://github.com/konefalg/whylog/blob/c66e09b015206863842ae2c893e80031febf28bf
 
 ##4. Co planujemy zrobić?
 
-###1. Rozbicie Umla na kilka mniejszych fragmentów.
-#####a) Struktura stanów. (Zależności pomiędzy nimi itp)
-#####b) Wygląd wbudowanych widokow w poszczególnych stanach
+#####1. Rozbicie Umla na kilka mniejszych fragmentów. - Andrzej
+######- Struktura stanów. (Zależności pomiędzy nimi itp)
+######- Wygląd wbudowanych widokow w poszczególnych stanach
 
-###2. Rozpoczęcie implementacji Teachera
+#####2. Rozpoczęcie implementacji Teachera - Ewa
 
+#####3. Domergowanie config access layer (rule base) - Krzysiek
 
-###3. Domergowanie config access layer (rule base)
+#####4. Dalsze implementacje klienta (pierwsze 3 testy) - Grzesiek
 
-
-###4. Dalsze implementacje klienta (pierwsze 3 testy)
-
-
+#####5. Rozpoczęcie pisania dokumentów do pracy w oparciu o szablon - Andrzej
 
