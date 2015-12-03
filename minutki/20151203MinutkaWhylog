@@ -1,0 +1,31 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+3.12.2015, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+
+3. DONE
+
+- Strona projektu z linkami do minutek i dokumentami (github) - Krzysiek
+- Przygotowanie prezentacji kodu: - Andrzej
+	- struktura katalogów
+	- zaprezentowanie kodu
+- wybór języka dokumentacji (angielski lub polski)
+- skonfigurowanie Travisa dla wybranych wersji Pythona
+- druga wersja implementacji warstwy dostępu do konfiguracji
+
+4. TODO (na następne zajęcia)
+
+- Rozbicie Umla na kilka mniejszych fragmentów - Andrzej
+- rozpoczęcie implementacji regex creatora teachera - Ewa 
+- prototyp klienta przechodzi pierwsze 3 testy - Grzesiek 
+- merge do mastera brancha configaccess - Krzysiek
+- wrzucić wszystkie minutki na stronę
+- prezentacja struktury katalogów w repozytorium
