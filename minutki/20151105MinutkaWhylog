@@ -1,0 +1,40 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+05.11.2015, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Ewa Pawłowska
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+
+3. DONE
+
+- umieszczenie w repozytorium prototypu klienta
+- założenie Slacka
+- zintegrowanie repozytorium za Slackiem
+- zintegrowanie repozytorium z Travisem
+- przygotowanie prezentacji o CI
+- wydzielenie podstawowych funkcjonalności na pierwszą iterację
+- szkielet architektury
+- nowe zadania do projektu: https://github.com/9livesdata/whylog/issues
+- zapoznanie z prototypem
+
+4. TODO (na następne zajęcia)
+
+- wybór licencji tworzonego oprogramowania
+- analiza głównych przypadków użycia dołączonych jako testy do prototypu
+- zaprojektowanie UI dla modułu Teacher
+- implementacja warstwy dostępu do konfiguracji (reguł wyszukiwania właściwych logów) tworzonego systemu
+- implementacja najprostszych przypadków użycia z testów
+
+5. Ustalenia inne
+
+- dokonczenie prezentowania tematyki CI
+- prezentacje raportujące co sie zmieniło w projekcie mają być bardziej szczegółowe niż w tym tygodniu
+
+

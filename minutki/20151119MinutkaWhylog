@@ -1,0 +1,34 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+19.11.2015, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Ewa Pawłowska
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+
+3. DONE
+
+- dokończenie prezentacji o CI
+- analiza głównych przypadków użycia dołączonych jako testy do prototypu
+- zaprojektowanie UI dla modułu Teacher
+- szkielet kodu warstwy dostępu do konfiguracji
+
+4. TODO (na następne zajęcia)
+
+- wybór licencji tworzonego oprogramowania
+- implementacja warstwy dostępu do konfiguracji (reguł wyszukiwania właściwych logów) tworzonego systemu
+- implementacja najprostszych przypadków użycia z testów
+- implementacja klienta
+
+5. Ustalenia inne
+
+- zrobimy na githubie miejsce na pliki dotyczące zajęć na ZPP tj. cotygodniowe prezentacje co nowego w zespole oraz minutki
+- wybrać temat pracy licencjackiej
+
+
