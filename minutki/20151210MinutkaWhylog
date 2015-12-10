@@ -1,0 +1,40 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+10.12.2015, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+Ewa Pawłowska
+
+3. DONE
+
+- Reorganizacja znacznej części architektury
+- Rozpoczęto implementację modułu Teacher - regex creator
+- Szkielet klienta zgodny ze zmienioną architektury 
+- Wrzucono minutki z poprzednich zajęć
+
+4. TODO (na następne zajęcia)
+
+- Podział zadań na mniejsze + przydział do osób - Grzesiek, Ewa, Krzysiek
+- Wymagania systemu - Ewa
+- Konfiguracja na travisie sprawdzania poprawności code style - Andrzej
+- skonsultowanie z klientem Vimowego interfejsu użytkownika - Ewa 
+
+5. Ustalenia
+
+- Prezentacja struktury katalogów w repozytorium 
+- Opis przypadków użycia
+- Wpisywanie docstringów do tworzenia automatycznego generowania dokumentacji
+- Poprawa diagramu klas z prezentacji
+- Diagram UML procesu uczenia
+
+6. Inne/Pomysły
+
+- Diagram kolaboracji
+- Vim ankieta
