@@ -1,0 +1,38 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+03.03.2016, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+Ewa Pawłowska
+
+3. DONE
+- refactor testów do clienta
+- parsers loading (open)
+- yaml fixes (merged)
+- investigation plan (merged)
+- config layer interfaces (merged)
+- Regex Assistant interface (open)
+
+4. TODO
+
+- Ładowanie reguł do pamięci - Krzysiek
+- Tworzenie reguł na podstawie danych od użytkownika - Krzysiek
+- Mechanizm aktualizacji plików yaml - Krzysiek
+- Kontynuowanie i koordynacja prac na dokumentem pracy licencjackiej - Ewa
+- Implementacja regexassistanta - Ewa
+- Implementacja teachera - Ewa
+- Update pull requesta z klasami
+  WhylogFrontem, FrontInputem i ResourceLocation  - Andrzej
+  - podstawowa wersja plugina - Andrzej
+  - diagram uml z logtype
+  - Merge pull requesta - Grzesiek
+
+
+  5. Inne/Pomysły
