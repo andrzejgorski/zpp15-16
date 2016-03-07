@@ -1,0 +1,30 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+25.02.2016, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Krzysztof Gromadzki
+Grzegorz Konefał
+Ewa Pawłowska
+
+3. DONE
+
+- diagram sekwencji dla tworzenia InvestigationPlan
+
+4. TODO
+
+- Implementacja InvestigationPlan i klas zależnych - Krzysiek
+- Plugin do Vima integrujący Whyloga z edytorem - Andrzej
+- Dodawanie constraintów dla Teachera - Ewa
+- Implementacja interfejsu Clienta - Grzesiek
+- Stworzenie repozytorium z pracą licencjacką
+- Szkielet pracy licencjackiej
+- Spis treści pracy licencjackiej
+
+5. Inne/Pomysły
+
+- link do plantUML (tekstowe definiowanie diagramów) : http://plantuml.com/
