@@ -1,0 +1,41 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+7.01.2016, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Andrzej Górski
+Krzysztof Gromadzki
+Grzegorz Konefał
+Ewa Pawłowska
+
+3. DONE
+
+- Dokończenie podziału zadań na mniejsze - Grzesiek, Krzysiek
+- Rozpoczęcie implementacji modułu VimFront - Andrzej
+- Implementacja działającej wersji klienta z BacktrackSearcherem - Grzesiek
+- Implementacja klas FrontInput - Andrzej
+- Trello - Ewa
+
+4. TODO (na następne zajęcia)
+
+- Implementacja teach_object w teacherze Ewa, Andrzej
+- Implementacja InvestigationPlan - Krzysiek
+- Rozwinięcie testów do BacktrackSeachera (dopisanie 1 testu) - Grzesiek
+- Trello (stworzyć konto lub utworzyć swoje taski) - A, G, K
+- Plan prezentacji o vimie
+
+5. Ustalenia
+
+- Prezentacja o Vimie - 21.01.2016
+- Wpisywanie docstringów do tworzenia automatycznego generowania dokumentacji
+- Poprawa diagramu klas z prezentacji
+- Opis przypadków użycia - później
+- Diagram UML procesu uczenia - później
+
+6. Inne/Pomysły
+
+- Diagram kolaboracji
