@@ -1,0 +1,31 @@
+Minutka
+
+1. Data, czas i miejsce spotkania
+
+14.01.2016, 8:30
+MIMUW
+
+2. Osoby obecne
+
+Krzysztof Gromadzki
+Grzegorz Konefał
+Ewa Pawłowska
+
+3. DONE
+
+- ustalony interfejs Teachera - E, A
+- zaimplementowany interfejs Teachera (zaakceptowany PR) - E
+- zrozumienie i zdebugowanie odpowiedzialności Front prototypu - A
+- zaimplementowany podstawowy interfejs klienta (review PR) - G
+- _reverse_from_offset w BacktrackSearcher (review PR) - G
+- projekt diagramu sekwencji dla InvestigationPlan - K
+- ustalone tematy prezentacji o Vimie - E, A
+- Trello (stworzyć konto lub utworzyć swoje taski) - A, G, K
+
+
+4. TODO (na następne zajęcia)
+
+- prezentacja o vimie - E, A
+- interfejs InvestigationPlan - K
+- udoskonalenie diagramu sekwencji dla InvestigationPlan - K
+- zamknięcie pull request dla interfejsu klienta - G
